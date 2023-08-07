@@ -27,5 +27,5 @@
 		"@babel/eslint-parser": "^7.22.9",
 		"eslint-rule-composer": "^0.3.0"
 	},
-	"license": "ISC"
+	"license": "MIT"
 }
