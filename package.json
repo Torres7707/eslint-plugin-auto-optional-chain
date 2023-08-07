@@ -27,5 +27,8 @@
 		"@babel/eslint-parser": "^7.22.9",
 		"eslint-rule-composer": "^0.3.0"
 	},
-	"license": "MIT"
+	"license": "MIT",
+	"repository": "https://github.com/Torres7707/eslint-plugin-auto-optional-chain",
+	"homepage": "https://github.com/Torres7707/eslint-plugin-auto-optional-chain",
+	"bugs": "https://github.com/Torres7707/eslint-plugin-auto-optional-chain/issues"
 }
