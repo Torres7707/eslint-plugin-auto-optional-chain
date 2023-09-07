@@ -1,6 +1,6 @@
 {
 	"name": "eslint-plugin-auto-optional-chain",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "ESLint plugin to enforce optional chaining",
 	"main": "index.js",
 	"scripts": {
