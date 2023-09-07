@@ -18,7 +18,7 @@ npm install eslint-plugin-auto-optional-chain --save-dev
 
 ```javascript
 module.exports = {
-	plugins: ["eslint-plugin-auto-optional-chain"],
+	plugins: ["auto-optional-chain"],
 	rules: {
 		"auto-optional-chain/auto-optional-chain": "error",
 		// ...other rules
